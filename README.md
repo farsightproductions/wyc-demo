@@ -22,3 +22,7 @@ A preservation project exploring how the site looked and worked, with its period
 - “About this demo / reset” in the footer restores the seed content and removes local changes for this copy of the site.
 
 Changes are saved in this browser's localStorage, scoped by the page path. They are not shared with other visitors or devices. If browser storage is unavailable, the demonstration continues in memory for the current visit. Use invented information only. New activity follows a fictional 14 October 2005 clock, advancing one minute per new item.
+
+## Refreshed version
+
+![A mockup showing a hypothetical lightly modernised version of the site](refresh.png)
