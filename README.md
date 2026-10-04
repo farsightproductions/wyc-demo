@@ -1,5 +1,7 @@
 # Westbridge Youth Forum
 
+[Open demo site](https://farsightproductions.github.io/wyc-demo/)
+
 A working reconstruction of a mid-2000s community website, originally built with PHP and MySQL.
 
 The demo recreates its news pages, discussion forum and administration tools in HTML, CSS and JavaScript. It retains the original fixed-width layout, bitmap graphics, rollover menus and small typography, alongside Blueception and Farsight production credits and surviving code quirks.
