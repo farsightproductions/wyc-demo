@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="83" viewBox="0 0 800 83"><!-- Replacement interface artwork. Original header master: Fireworks MX, Creation Time 07/20/04. -->
+<defs><linearGradient id="gold" x1="0" x2="1"><stop stop-color="#887526"/><stop offset=".52" stop-color="#ffd20c"/><stop offset="1" stop-color="#bba33e"/></linearGradient><linearGradient id="base" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#555"/><stop offset="1" stop-color="#3d3d3d"/></linearGradient></defs>
+<rect width="800" height="83" fill="url(#base)"/><path d="M0 37C65 87 122 20 190 27S281 91 354 41S446 84 505 29S558 15 616 63S702 7 755 47S784 54 800 51V83H0Z" fill="url(#gold)"/>
+<path d="M0 42C65 92 122 25 190 32S281 96 354 46S446 89 505 34S558 20 616 68S702 12 755 52S784 59 800 56" fill="none" stroke="#eee" stroke-width="5"/>
+<path d="M0 63C77 37 100 91 183 54S285 30 374 72S481 21 559 53S669 59 722 39S768 48 800 67" fill="none" stroke="#fbc900" stroke-width="4"/>
+<text x="16" y="28" fill="#222" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="20">WESTBRIDGE YOUTH FORUM</text><text x="15" y="26" fill="white" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="20">WESTBRIDGE YOUTH FORUM</text>
+<g fill="#fff2a7" font-family="Arial,Helvetica,sans-serif"><text x="241" y="40" font-size="18" opacity=".85">Westbridge Youth Forum</text><text x="334" y="55" font-size="15" opacity=".9">Westbridge Youth Forum</text><text x="403" y="69" font-size="10">Westbridge Youth Forum</text></g></svg>
